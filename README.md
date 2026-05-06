@@ -44,9 +44,8 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 ## 💡 Favorite Quote
 
 <div align="center">
-  <br />
-  <h1><i>"Design is not just what it looks like and feels like. <b>Design is how it works.</b>"</i></h1>
-  <br />
+  
+  # *"Design is not just what it looks like and feels like. **Design is how it works.**"*
   <img src="https://img.shields.io/badge/Steve%20Jobs-black?style=for-the-badge&logo=apple&logoColor=white" alt="Steve Jobs" />
   <br />
   <br />
