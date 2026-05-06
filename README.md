@@ -37,7 +37,7 @@ Here's a glimpse into the technologies and tools I frequently use:
 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out!
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/779077892168482848)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/779077892168482848) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/zinczak)
 
 ---
 
