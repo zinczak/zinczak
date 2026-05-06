@@ -41,6 +41,6 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 Favorite Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+> "Design is not just what it looks like and feels like. Design is how it works." — **Steve Jobs**
